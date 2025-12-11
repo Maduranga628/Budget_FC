@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Budget_FC")(type "KiCad")(uri "${KIPRJMOD}/Budget_FC.kicad_sym")(options "")(descr ""))
+)
